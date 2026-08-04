@@ -8,9 +8,9 @@
     "dev": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Tanjil",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "dependencies": {
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
